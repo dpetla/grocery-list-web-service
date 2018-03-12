@@ -17,3 +17,9 @@ This is a simple RESTful web service for the repo [grocery-list](https://github.
 | picked | varchar(100) | NO   |     | NULL    |                |
 +--------+--------------+------+-----+---------+----------------+
 ```
+
+
+Follow these steps to run this application:
+- run branch clientAPI of [grocery-list](https://github.com/dpetla/grocery-list) (check README.md for details)
+- install, configure and run MySQL server
+- build and run grocery-list-web-service
