@@ -1,0 +1,182 @@
+POST http://localhost:8080/items
+Accept: application/json
+Cache-Control: no-cache
+
+{ id: '',  title: 'Test',  notes: 'haha',  picked: 'f' }
+
+<> 2018-03-12T040324.415.json
+
+###
+
+POST http://localhost:8080/items
+Accept: application/json
+Cache-Control: no-cache
+
+{ id: '',  title: 'Test',  notes: 'haha',  picked: 'f' }
+
+<> 2018-03-12T040236.415.json
+
+###
+
+POST http://localhost:8080/items
+Accept: application/json
+Cache-Control: no-cache
+
+{ id: '',  title: 'Test',  notes: 'haha',  picked: 'f' }
+
+<> 2018-03-12T040235.415.json
+
+###
+
+POST http://localhost:8080/items
+Accept: application/json
+Cache-Control: no-cache
+
+{ id: '',  title: 'Test',  notes: 'haha',  picked: 'f' }
+
+<> 2018-03-12T040203.415.json
+
+###
+
+POST http://localhost:8080/items
+Accept: application/json
+Cache-Control: no-cache
+
+{ id: '',  title: 'Test',  notes: 'haha',  picked: 'f' }
+
+<> 2018-03-12T040201.415.json
+
+###
+
+POST http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+{ id: '',  title: 'Test',  notes: 'haha',  picked: 'f' }
+
+<> 2018-03-12T035809.415.json
+
+###
+
+POST http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+{ id: '',  title: 'Test',  notes: 'haha',  picked: 'f' }
+
+<> 2018-03-12T034857.415.json
+
+###
+
+GET http://localhost:8080/items/1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/items/1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T094151.200.json
+
+###
+
+GET http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T061630.404.json
+
+###
+
+GET http://localhost:8080
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T061629.404.json
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T061239.404.json
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T054351.404.json
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T054350.404.json
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T054349.404.json
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T054030.404.json
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T054028.404.json
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T044756.404.json
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-03-11T044649.404.json
+
+###
+
+GET http://localhost:8080/items
+Accept: */*
+Cache-Control: no-cache
+
+###
+
