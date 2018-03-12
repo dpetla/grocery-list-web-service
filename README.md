@@ -1,6 +1,6 @@
 # Grocery List Web Service
 
-This is a simple RESTful web service for the repo [grocery-list](https://github.com/dpetla/grocery-list)(branch [clientAPI](https://github.com/dpetla/grocery-list)) built with Java 8, Maven, Spring Boot and MySQL.
+This is a simple RESTful web service for the repo [grocery-list](https://github.com/dpetla/grocery-list)(branch __clientAPI__) built with Java 8, Maven, Spring Boot and MySQL.
 
 ### Database configuration
 
